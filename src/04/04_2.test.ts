@@ -18,7 +18,7 @@ beforeEach(() => {
                 }
         },
             {
-                id:2,
+                id: 2,
                 buildedAt: 2008,
                 repaired: false,
                 address:
@@ -29,7 +29,7 @@ beforeEach(() => {
                     }
             },
             {
-                id:3,
+                id: 3,
                 buildedAt: 2020,
                 repaired: false,
                 address:
